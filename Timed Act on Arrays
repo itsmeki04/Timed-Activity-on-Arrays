@@ -12,11 +12,11 @@ int main()
     int id  , pin;
     int i , v=0 ;
 
-    printf("ID Number: ");
+    printf("Enter ID Number: ");
     scanf("%d", &id);
 
 
-    printf("PIN: ");
+    printf("Enter PIN: ");
     scanf("%d", &pin);
 
 
